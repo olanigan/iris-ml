@@ -1,0 +1,13 @@
+faker
+parsedatetime
+hopsworks
+nbconvert
+scikit-learn
+plotly
+Pillow
+seaborn
+dataframe-image
+streamlit_folium
+plotly
+ipykernel
+# MarkupSafe>=2.1.1
